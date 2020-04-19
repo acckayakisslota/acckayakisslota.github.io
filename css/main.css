@@ -1,0 +1,31 @@
+
+
+body{
+    background-color: antiquewhite;
+}
+
+.top{
+    height: 200px;
+ 
+   background-image: url(../img/th55umb_l_38403777.jpg);
+   
+}
+
+section{
+    margin: 30px;
+}
+
+.ancor{
+    background-color: cornflowerblue;
+    padding: 10px 20px;
+    
+    color: azure;
+    
+      
+    text-decoration:none;
+   
+
+    border-radius:5px;
+   
+}
+
